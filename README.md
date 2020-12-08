@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...JavaScript, React, spring boot
+- 🔭 I’m currently working on ...JavaScript, React
 - 🌱 I’m currently learning ...Redux
 - 👯 I’m looking to collaborate on Javascript
 - 🤔 I’m looking for help with FrontEnd
