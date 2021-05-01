@@ -10,3 +10,4 @@
 - 😄 Pronouns: He,His
 - ⚡ Fun fact: ...
 
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishcas)](https://github.com/anuraghazra/github-readme-stats)
