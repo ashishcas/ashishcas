@@ -1,4 +1,4 @@
-### Hi there, I'm [Ashish]👋
+### Hi there, I'm Ashish👋
 
 <a href="https://twitter.com/Ashish02991577">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -28,7 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishcas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
