@@ -1,8 +1,8 @@
 ### Hi there, I'm Ashish👋
 
-<a href="https://twitter.com/Ashish02991577">
+<!-- <a href="https://twitter.com/Ashish02991577">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+</a> -->
 
 
 <br />
