@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ...Redux
 - 👯 I’m looking to collaborate on Javascript
 - 🤔 I’m looking for help with FrontEnd
-- 📫 How to reach me: chilukaashish@gmail.com
+- 📫 How to reach me:  chilukaashish@gmail.com
 
 
 ## Connect with me
